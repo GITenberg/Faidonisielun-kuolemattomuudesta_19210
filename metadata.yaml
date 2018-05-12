@@ -1,0 +1,43 @@
+_repo: Faidonisielun-kuolemattomuudesta_19210
+_version: 0.1.0
+alternative_title: Phaedo. Finnish
+contributor:
+  translator:
+    agent_name: Calamnius, J. W.
+    alias: Calamnius, Johan Wiktor
+    birthdate: 1838
+    deathdate: 1891
+    gutenberg_agent_id: '8199'
+    url: http://www.gutenberg.org/2009/agents/8199
+    wikipedia: http://bibliografia.kuopio.fi/kirjailijat/c/calamnius_johan/
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19210'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Immortality (Philosophy) -- Early works to 1800'
+- !lcc 'B'
+title: 'Faidoni
+
+  Platonin keskustelma Sokrateen viimeisistä hetkistä ja
+
+  sielun kuolemattomuudesta'
+url: http://www.gutenberg.org/ebooks/19210
